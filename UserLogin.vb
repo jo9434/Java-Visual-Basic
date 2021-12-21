@@ -36,7 +36,7 @@ Public Class UserLogin
       Close() 'Me.Close() or Close() - will close the current active form i.e., UserLogin.vb form and open UserHome.vb form
     Else If TxtUsername.Text IsNot "User1" And TxtPassword.Text IsNot "User1867#" Then
         MsgBox(msgLoginFail)
-        Application.Exit() ' closes the app
+        Application.Exit() ' closes the app '
     End If
   End Sub
 End Class
