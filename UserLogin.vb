@@ -19,7 +19,7 @@
 ' ***** Code Starts Here ***** '
 
 Public Class UserLogin
-  Dim msgLoginSuccess, msgLoginFail, msgInvalidInput As String
+  Dim msgLoginSuccess, msgLoginFail As String
   ' CmdLogin is the button in the form UserLogin Form which I have designed...
   
   Private Sub CmdLogin_Load(sender As Object, e As EventArgs) Handles CmdLogin.Load
@@ -29,7 +29,6 @@ Public Class UserLogin
   Private Sub CmdLogin_Click(sender As Object, e As EventArgs) Handles CmdLogin.Click
     msgLoginSuccess = "Login Successful..!"
     msgLoginFail = "Login Failed...! Please Try Again....!"
-    msgInvalidInput = "Invalid Input"
     
     If TxtUsername.Text = "User1" And TxtPassword.Text = "User1867#" Then
       MsgBox(msgLoginSuccess)
@@ -38,9 +37,6 @@ Public Class UserLogin
     Else If TxtUsername.Text IsNot "User1" And TxtPassword.Text IsNot "User1867#" Then
         MsgBox(msgLoginFail)
         Application.Exit() ' closes the app
-      Else
-        MsgBox(msgInvalidInput)
-        Application.Exit()
     End If
   End Sub
 End Class
