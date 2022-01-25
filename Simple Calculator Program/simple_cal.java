@@ -1,5 +1,7 @@
 /*
-Objective: WAP to create a Simple Calculator Application using Switch Case Statements.
+
+Objective: WAP to create a Simple Calculator Application using Switch Case Statements to perform operations of addition, subtraction, multiplication and division.
+
 */
 import java.util.*;
 
@@ -13,7 +15,7 @@ public class simple_cal
         int a = read.nextInt();
         int b = read.nextInt();
         
-        System.out.println("Select Option\n 1. Add\n 2. Subtract\n 3. Multiply\n 4. Divide\n\nSelection::");
+        System.out.println("\nSelect Option\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5.Exit\n\nSelection::");
         int choice = read.nextInt();
         switch(choice)
         {
@@ -36,6 +38,10 @@ public class simple_cal
                     divNum(a,b);
                     System.out.println(result);
                     break;
+                
+            case 5: //Exit App
+                    System.out.println("App Closed");
+                    System.exit(0); // Syntax => System.exit(status);
 
             default:
                     // Invalid
