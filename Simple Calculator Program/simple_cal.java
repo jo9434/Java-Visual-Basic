@@ -1,3 +1,6 @@
+/*
+Objective: To create a Simple Calculator Application using Switch Case Statements...
+*/
 import java.util.*;
 
 public class simple_cal
