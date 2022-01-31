@@ -114,8 +114,6 @@ public class RegisterForm
                 bw1.write(phoneNo);
                 bw2.write(username+",");
                 bw2.write(password);
-                bw1.newLine();
-                bw2.newLine();
             }
             bw2.close();
             br1.close();
