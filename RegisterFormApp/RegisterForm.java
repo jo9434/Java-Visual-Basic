@@ -61,7 +61,7 @@ public class RegisterForm
 
             if(OTP.equals(value))
             {
-                RegisterForm.writeFile();
+                RegisterForm.writeFile(); // if the otp matches, the values are stored else the app is closed... 
             }
             else if(!OTP.equals(value))
             {
