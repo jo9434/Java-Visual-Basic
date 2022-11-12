@@ -1,0 +1,17 @@
+C:\Users\Joel William\source\repos\AppName\bin\Debug\net6.0-windows\AppName.exe
+C:\Users\Joel William\source\repos\AppName\bin\Debug\net6.0-windows\AppName.deps.json
+C:\Users\Joel William\source\repos\AppName\bin\Debug\net6.0-windows\AppName.runtimeconfig.json
+C:\Users\Joel William\source\repos\AppName\bin\Debug\net6.0-windows\AppName.dll
+C:\Users\Joel William\source\repos\AppName\bin\Debug\net6.0-windows\AppName.pdb
+C:\Users\Joel William\source\repos\AppName\obj\Debug\net6.0-windows\AppName.csproj.AssemblyReference.cache
+C:\Users\Joel William\source\repos\AppName\obj\Debug\net6.0-windows\AppName.LoginForm.resources
+C:\Users\Joel William\source\repos\AppName\obj\Debug\net6.0-windows\AppName.csproj.GenerateResource.cache
+C:\Users\Joel William\source\repos\AppName\obj\Debug\net6.0-windows\AppName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel William\source\repos\AppName\obj\Debug\net6.0-windows\AppName.AssemblyInfoInputs.cache
+C:\Users\Joel William\source\repos\AppName\obj\Debug\net6.0-windows\AppName.AssemblyInfo.cs
+C:\Users\Joel William\source\repos\AppName\obj\Debug\net6.0-windows\AppName.csproj.CoreCompileInputs.cache
+C:\Users\Joel William\source\repos\AppName\obj\Debug\net6.0-windows\AppName.dll
+C:\Users\Joel William\source\repos\AppName\obj\Debug\net6.0-windows\refint\AppName.dll
+C:\Users\Joel William\source\repos\AppName\obj\Debug\net6.0-windows\AppName.pdb
+C:\Users\Joel William\source\repos\AppName\obj\Debug\net6.0-windows\AppName.genruntimeconfig.cache
+C:\Users\Joel William\source\repos\AppName\obj\Debug\net6.0-windows\ref\AppName.dll
