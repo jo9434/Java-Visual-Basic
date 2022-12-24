@@ -2,8 +2,7 @@
 # ------------------------------------------------------------------------------ #
 # Getting Started with Create React App
 
-# { *Note: Place browser in mobile mode for better viewing or if in a desktop/laptop, 
-# resize the browser to smaller size }
+# { *Note: Place browser in mobile mode for better viewing or if in a desktop/laptop, resize the browser to smaller size }
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
