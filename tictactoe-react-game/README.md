@@ -1,5 +1,5 @@
 # Author: Joel Allan William
-# --------------------------------------------------------------------------------------- #
+# ------------------------------------------------------------------------------- #
 # Getting Started with Create React App
 
 # { *Note: Place browser in mobile mode for better viewing or if in a desktop/laptop, 
